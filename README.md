@@ -1,5 +1,3 @@
 # Bem vindo á minecraft plugins
 
-#### estarei mostrando plugins aqui e você ira pode aprender a crialos assim 
-
-# ok vamos começar
+#### irei esta mostrando plugins aqui e você ira pode aprender a criá
